@@ -1,0 +1,64 @@
+{
+    "future_predictions": [
+        {
+            "year": 2022,
+            "month": 1,
+            "predicted_cases_disposed": 63.4039192199707
+        },
+        {
+            "year": 2022,
+            "month": 2,
+            "predicted_cases_disposed": 56.25503158569336
+        },
+        {
+            "year": 2022,
+            "month": 3,
+            "predicted_cases_disposed": 49.8548583984375
+        },
+        {
+            "year": 2022,
+            "month": 4,
+            "predicted_cases_disposed": 44.5311393737793
+        },
+        {
+            "year": 2022,
+            "month": 5,
+            "predicted_cases_disposed": 39.529781341552734
+        },
+        {
+            "year": 2022,
+            "month": 6,
+            "predicted_cases_disposed": 35.31453323364258
+        },
+        {
+            "year": 2022,
+            "month": 7,
+            "predicted_cases_disposed": 31.773767471313477
+        },
+        {
+            "year": 2022,
+            "month": 8,
+            "predicted_cases_disposed": 28.853729248046875
+        },
+        {
+            "year": 2022,
+            "month": 9,
+            "predicted_cases_disposed": 26.838571548461914
+        },
+        {
+            "year": 2022,
+            "month": 10,
+            "predicted_cases_disposed": 26.974573135375977
+        },
+        {
+            "year": 2022,
+            "month": 11,
+            "predicted_cases_disposed": 28.490882873535156
+        },
+        {
+            "year": 2022,
+            "month": 12,
+            "predicted_cases_disposed": 31.311819076538086
+        }
+    ]
+}

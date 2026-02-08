@@ -1,0 +1,10 @@
+court: "Karnataka High Court \u2013 Bengaluru"
+features:
+- year
+- month_num
+metrics:
+  MAE: 345.2377738952637
+  RMSE: 352.0726103329634
+model: Neural Network (MLP)
+project: Justice Delay Analytics for Senior Citizen Cases
+target: count
